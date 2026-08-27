@@ -1,5 +1,5 @@
 # ZTPK-Sovereign-evidence-Vault-
-a general infant for a sovereign evidence Vault of audit findings in the initial starter piece of the Nyx Sovereign mesh decentralized intelligence Network/Decent-AI 
+a general endpoint for a sovereign evidence Vault of audit findings in the initial starter piece of the Nyx Sovereign mesh decentralized intelligence Network/Decent-AI 
 # Never publish secrets, keys, evidence, or local operational data
 .env
 .env.*
