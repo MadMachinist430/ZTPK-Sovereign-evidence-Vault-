@@ -42,3 +42,27 @@ terraform.rc
 # Optional: ignore plan files saved before destroying Terraform configuration
 # Uncomment the line below if you want to ignore planout files.
 # planout
+# Sensitive configuration and credentials
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+private/
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.kdbx
+
+# Local operational, legal, and evidence data
+evidence/
+case-data/
+legal-data/
+intake/
+exports/
+*.db
+*.sqlite
+*.sqlite3
+*.log
