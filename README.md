@@ -30,3 +30,18 @@ legal-data/
 *.tfstate
 *.tfstate.*
 *.tfvars
+README.md
+NOTICE.md
+LICENSE-CODE.md
+LICENSE-EVIDENCE.md
+docs/
+  methodology.md
+  verification.md
+  redaction-policy.md
+  disclosure-policy.md
+manifests/
+  README.md
+examples/
+  fictional-or-fully-redacted-example.md
+tools/
+  verify-manifest.py
