@@ -1,0 +1,50 @@
+The Nyx Mesh Bridge - Proprietary Commercial & Royalty License Agreement
+Copyright (c) 2026 Roy Clayton Millsap. All rights reserved.
+
+1. PROPRIETARY STATUS AND RESTRICTION OF USE
+
+This software, including the decentralized intelligence architecture, node communication layers, biometric authentication pipelines, telemetry protocols, cryptographic handshake mechanisms, and all associated components constituting the Nyx Mesh Bridge (collectively, "Software") is the exclusive intellectual property of Roy Clayton Millsap ("Licensor"). The Software is proprietary, confidential, and protected under applicable copyright, patent, and trade secret laws.
+
+2. GRANT OF LIMITED EVALUATION RIGHTS
+
+The Licensor grants the recipient a limited, non-exclusive, non-transferable, revocable right to view the source code solely for internal evaluation purposes. No right is granted to copy, modify, compile, distribute, sublicense, sell, or commercially exploit the Software without explicit, written authorization from the Licensor.
+
+3. PROHIBITION OF REVERSE ENGINEERING & ANTI-CIRCUMVENTION
+
+Licensee shall not, and shall not permit any third party to, decompile, disassemble, decrypt, extract, or otherwise reverse engineer the Software, nor bypass, modify, or disable any cryptographic protections, telemetry mechanisms, or license enforcement features. Any attempt to circumvent access controls or authentication systems is strictly prohibited and constitutes a material breach of this Agreement.
+
+4. COMMERCIAL DEPLOYMENT & ROYALTY OBLIGATIONS
+
+Any commercial use, enterprise integration, or deployment of nodes within a distributed network requires a separate, fully executed Commercial Licensing and Royalty Agreement with the Licensor.
+
+* Licensing Fees: Licensee shall pay the required upfront deployment and node-issuance fees.
+* Royalty Payments: Licensee shall remit periodic, percentage-based royalties derived from gross revenues, subscription models, or network operational utility utilizing the Software.
+* Reporting: Detailed usage logs, telemetry metrics, and financial accounts shall be provided to the Licensor on a strict quarterly basis.
+
+5. NETWORK TELEMETRY, DATA ACCESS & MONITORING
+
+By connecting, configuring, or operating any node utilizing the Software, the Licensee explicitly consents to continuous network telemetry monitoring. The Licensor reserves the right to track operational metrics, node health, network topology, transaction patterns, and usage statistics to ensure compliance, prevent abuse, and optimize network integrity.
+
+6. REMOTE REVOCATION & NODE TERMINATION
+
+The Licensor retains the unilateral right to instantly revoke cryptographic certificates, blacklist public keys, or terminate network synchronization for any node suspected of breaching this Agreement, engaging in unauthorized distribution, or violating intellectual property rights. Revocation is final and non-negotiable.
+
+7. AUDIT AND COMPLIANCE
+
+The Licensor reserves the right, upon reasonable notice, to audit network telemetry, operational logs, and financial records to verify compliance with deployment terms and ensure accurate calculation and payment of royalties. Licensee shall provide full transparency and cooperation during any audit.
+
+8. INDEMNIFICATION
+
+Licensee agrees to defend, indemnify, and hold harmless the Licensor from and against any claims, liabilities, damages, losses, or expenses (including reasonable legal fees) arising out of or in any way connected to Licensee's use, misuse, or breach of this Agreement.
+
+9. GOVERNING LAW AND JURISDICTION
+
+This Agreement shall be governed by and construed in accordance with applicable commercial and intellectual property laws, without regard to conflict of law principles. Any legal action or proceeding arising under or relating to this Agreement shall be brought exclusively in the courts of competent jurisdiction within the United States.
+
+10. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+Copyright (c) February 2026 Roy Clayton Millsap. All rights reserved.
